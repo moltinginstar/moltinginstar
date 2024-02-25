@@ -10,7 +10,30 @@
   </footer>
 </blockquote>
 
-Most of my contributions are in private repos.
+I like to build things with care and precision, focusing on impactful, maintainable solutions.
+
+My current stack is `Vue`/`Nest.js`/`TypeScript` and `Python`. In the past, I’ve dabbled in AI, mobile development, Haskell programming, conlanging, graphic design, and creative writing.
+
+<details>
+  <summary>🎵 My current jam</summary>
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=exOi_zsOHwM" target="_blank"><i>Bokura no</i></a></li>
+    <li><a href="https://www.youtube.com/watch?v=AgHaGrZkkv4" target="_blank"><i>People Are Strange</i></a></li>
+    <li><a href="https://www.youtube.com/watch?v=gSsCZJM6OG0" target="_blank"><i>Serendipity</i></a></li>
+    <li><a href="https://www.youtube.com/watch?v=Io1AFbHcv-s" target="_blank"><i>Unk’àtân</i></a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>📚 Recent reads</summary>
+  <ul>
+    <li><i>Dawn</i> by Octavia Butlet</li>
+    <li><i title="When We Cease to Understand the World">Un verdor terrible</i> by Benjamín Labatut</li>
+    <li>The <i>Bhagavad Gītā</i></li>
+  </ul>
+</details>
+
+Most of my contributions are in private repos, but if you’ve seen something that caught your eye, [drop me a line](mailto:hello@moltinginstar.tech)!
 
 <picture>
   <source
