@@ -1,5 +1,15 @@
 ### Hello, I’m Sam.
 
+<blockquote>
+  <p>
+    Being civilized means, among other things, stopping your immediate response to a situation, and thinking whether it is or is not the appropriate thing to do.
+  </p>
+
+  <footer>
+    ― Richard Hamming, <i><cite>The Art of Doing Science and Engineering</cite></i>
+  </footer>
+</blockquote>
+
 Most of my contributions are in private repos.
 
 <picture>
