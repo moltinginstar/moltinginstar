@@ -27,7 +27,7 @@ My current stack is `Vue`/`Nest.js`/`TypeScript` and `Python`. In the past, I’
 <details>
   <summary>📚 Recent reads</summary>
   <ul>
-    <li><i>Dawn</i> by Octavia Butlet</li>
+    <li><i>Dawn</i> by Octavia Butler</li>
     <li><i title="When We Cease to Understand the World">Un verdor terrible</i> by Benjamín Labatut</li>
     <li>The <i>Bhagavad Gītā</i></li>
   </ul>
