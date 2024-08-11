@@ -33,6 +33,11 @@ My current stack is `Vue`/`Nest.js`/`TypeScript` and `Python`. In the past, I’
   </ul>
 </details>
 
+<details>
+  <summary>🏳️ Favorite flags</summary>
+  <ul>🇺🇸🇸🇨🇲🇺🇱🇨🇵🇼🇧🇩🇰🇬🇭🇰🇧🇹🇧🇦🇦🇬🇵🇬🇦🇱🇬🇱🇵🇦🇦🇶</ul>
+</details>
+
 Most of my contributions are in private repos, but if you’ve seen something that caught your eye, [drop me a line](mailto:hello@moltinginstar.tech)!
 
 I write haiku sometimes. [Here’s a collection](https://moltinginstar.tech/haiku.html).
