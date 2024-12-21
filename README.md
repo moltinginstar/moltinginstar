@@ -40,7 +40,7 @@ My current stack is `Vue`/`Nest.js`/`TypeScript` and `Python`. In the past, I’
 
 Most of my contributions are in private repos, but if you’ve seen something that caught your eye, [drop me a line](mailto:hello@moltinginstar.com)!
 
-I write haiku sometimes. [Here’s a collection](https://moltinginstar.tech/haiku.html).
+I write haiku sometimes. [Here’s a collection](https://moltinginstar.com/haiku.html).
 
 <picture>
   <source
