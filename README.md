@@ -10,9 +10,11 @@
   </footer>
 </blockquote>
 
-I like to build things with care and precision, focusing on impactful, maintainable solutions.
+I build things with care and precision when I can, get creative when precision gets in the way.
 
-My current stack is `Vue`/`Nest.js`/`TypeScript` and `Python`. In the past, I’ve dabbled in AI, mobile development, Haskell programming, conlanging, graphic design, and creative writing.
+My current stack is `Python`/`PyTorch`/`Pandas` and `TypeScript`/`Vue`/`Nest.js`. In the past, I’ve dabbled in mobile development, Haskell programming, conlanging, graphic design, and creative writing.
+
+Most of my contributions are in private repos, but if you’ve seen something that caught your eye, [drop me a line](mailto:hello@moltinginstar.com)!
 
 <details>
   <summary>🎵 My current jam</summary>
@@ -37,8 +39,6 @@ My current stack is `Vue`/`Nest.js`/`TypeScript` and `Python`. In the past, I’
   <summary>🏳️ Favorite flags</summary>
   <ul>🇺🇸🇸🇨🇲🇺🇱🇨🇵🇼🇧🇩🇰🇬🇭🇰🇧🇹🇧🇦🇦🇬🇵🇬🇰🇮🇦🇱🇬🇱🇵🇦🇦🇶</ul>
 </details>
-
-Most of my contributions are in private repos, but if you’ve seen something that caught your eye, [drop me a line](mailto:hello@moltinginstar.com)!
 
 I write haiku sometimes. [Here’s a collection](https://moltinginstar.com/haiku.html).
 
