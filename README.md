@@ -44,14 +44,14 @@ I write haiku sometimes. [Here’s a collection](https://moltinginstar.com/haiku
 
 <picture>
   <source
-    srcset="https://github.com/moltinginstar/moltinginstar/assets/62135712/c0f9aedb-8c54-46ed-9ff5-7a61a67bfeaf"
+    srcset="https://moltinginstar.com/images/stained_glass.dark.png"
     media="(prefers-color-scheme: dark)"
   />
 
   <source
-    srcset="https://github.com/moltinginstar/moltinginstar/assets/62135712/f5a9c683-4a6e-45ac-89d4-994bbbebe192"
+    srcset="https://moltinginstar.com/images/stained_glass.light.png"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
 
-  <img src="https://github.com/moltinginstar/moltinginstar/assets/62135712/f5a9c683-4a6e-45ac-89d4-994bbbebe192" />
+  <img src="https://moltinginstar.com/images/stained_glass.light.png" />
 </picture>
