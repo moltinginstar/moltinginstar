@@ -10,10 +10,6 @@
   </footer>
 </blockquote>
 
-I build things with care and precision when I can, get creative when precision gets in the way.
-
-My current stack is `Python`/`PyTorch`/`Pandas` and `TypeScript`/`Vue`/`Nest.js`. In the past, I’ve dabbled in mobile development, Haskell programming, conlanging, graphic design, and creative writing.
-
 Most of my contributions are in private repos, but if you’ve seen something that caught your eye, [drop me a line](mailto:hello@moltinginstar.com)!
 
 <details>
